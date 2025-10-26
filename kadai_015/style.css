@@ -22,7 +22,7 @@ body {
   font-family: "Arial","Meiryo", sans-serif;
   text-align: center;
 }
-#basic p {
+#basic > p {
   font-weight: bold;
 }
 h2.blue {
